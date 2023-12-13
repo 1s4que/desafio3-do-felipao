@@ -34,6 +34,6 @@ let heroi1 = new Heroi("Rogério", 25, "guerreiro");
     
 heroi1.Atacar();
 
-let heroi2 = new Heroi("Yudi", 19, "ninja")
+let heroi2 = new Heroi("Yudi", 19, "ninja");
 
 heroi2.Atacar();
